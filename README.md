@@ -24,7 +24,7 @@ A robust starter template for building REST APIs using Express.js, PostgreSQL, P
 
 ```sh
 git clone <repository-url>
-cd express-postgresql-starter
+cd express-typescript-postgresql-starter
 ```
 
 2. Install dependencies:
@@ -36,7 +36,7 @@ npm install
 3. Configure environment variables:
 
 ```sh
-cp .env.example .env
+cp  .env
 ```
 
 Fill in the `.env` file with your configuration:
